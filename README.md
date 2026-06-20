@@ -38,6 +38,11 @@ L'application permet aux utilisateurs d'identifier, d'évaluer et de visualiser 
 Démontrer la capacité à créer des **solutions technologiques pour la gestion proactive des risques** en cybersécurité, accessibles sans infrastructure lourde.
 
 ---
+## 📚 Sources
+
+Le fichier de mapping NIST CSF 2.0 / ISO 27001:2013 est une ressource externe non-officielle utilisée à titre de référence, non créée par l'auteur de ce repo.
+
+---
 
 ## 👤 Auteur
 
